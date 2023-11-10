@@ -75,3 +75,10 @@ DerivedDataCache/*
 /Content/BirdOfPrey/Resources
 /Content/StarterContent
 
+/Saved
+/Intermediate
+/.vsconfig
+/BirdOfPrey.sln
+/.vs
+/Binaries
+/DerivedDataCache
